@@ -1,4 +1,5 @@
-![BRANDING](https://raw.githubusercontent.com/TezadaConnect/dsb-branding/main/branding-img/branding.png)
+
+<p align="center"><img src="https://raw.githubusercontent.com/TezadaConnect/dsb-branding/main/branding-img/branding.png"></p>
 # BRANDING OF DAILY SILLIMAN
 Logos, images and branding of Daily Silliman Beta are save here!
 
